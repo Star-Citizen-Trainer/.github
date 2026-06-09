@@ -5,7 +5,8 @@ Standalone external trainer for Star Citizen fully compatible with the June 2026
 
 Tested on latest PU (Persistent Universe) build. Works best in solo/private instances or low-population servers. Enables faster progression, creative ship testing, and relaxed exploration while maintaining low profile where possible. Fast attach, minimal footprint during normal gameplay.
 
-<br><a href="https://star.gameradar.cc"><img width="334" height="158" alt="ChatGPT Image Jun 9, 2026, 06_19_19 PM-Photoroom (2)" src="https://github.com/user-attachments/assets/f3c1be6e-0ecb-44b7-8a4a-e75af7f369f3" />
+<br><a href="https://star.gameradar.cc"><img width="800" height="276" alt="ChatGPT Image Jun 9, 2026, 06_19_19 PM-Photoroom" src="https://github.com/user-attachments/assets/c893d458-a07d-4a17-8c77-b27ec8921a78" />
+
 </a><br>
 
 **Core Features**
